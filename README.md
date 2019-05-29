@@ -1,14 +1,16 @@
 # zVision
 
-zVision是机器视觉的大方向项目,深入图像信号领域
+zAI是机器视觉的人工智能方向项目 https://github.com/PassByYou888/zAI
 
-zVision偏向纯粹的机器视觉
 
-zAI偏向人工智能
+zVision偏向纯粹的机器视觉,深入数字化信号处理 https://github.com/PassByYou888/zVision
 
-zAnalysis偏向统计学习
 
-近期完成上线.
+zAnalysis偏向数据统计 https://github.com/PassByYou888/zAnalysis
+
+
+zVision将会在zAI 1.20发行版本出来后进入我的日程开发计划.大概8月左右上线第一个版本
+
 
 敬请关注
 
